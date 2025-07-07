@@ -13,7 +13,7 @@ SOURCES += src/main.cpp \
 CONFIG += warn_on \
 	  thread \
           qt
-TARGET = ./bin/qtrsync
+#TARGET = ./bin/qtrsync
 
 HEADERS += src/mainwindow.h \
 src/rsyncwrapper.h \
@@ -30,5 +30,5 @@ CONFIG += warn_on \
 	release
 
 RESOURCES += icons.qrc
-INSTALLS = target desktop
+#INSTALLS = target desktop
 
