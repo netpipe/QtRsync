@@ -1,0 +1,16 @@
+Installing QtRsync is simple.
+First, make sure you have installed rsync, then in a terminal type
+
+qmake-qt4
+make
+make install (you need root permissions)
+
+these commands must be executed in the directory where you have extracted 
+QtRsync. For example, you have extracted the tarball in your home directory
+then switch to the directory just created typing:
+
+cd path_to_the_new_directory
+
+then you can type the commands above.
+
+ 

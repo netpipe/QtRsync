@@ -1,0 +1,15 @@
+
+1) Fix rsyncwrapper thread. Sometimes it doesn't send all the output 
+   to the QTextEdit in rsyncwidget.
+
+2) Make qtrsync save sessions.
+
+3) Fix archive mode. When archive mode is enabled and then disabled, 
+   recursive checkbox change its state to unchecked. It forgets its old state.
+
+4) Users should be able to give more advanced options, like all the options described in rsync's manual.
+
+5) Do more testing
+
+
+Sorry for bad english!

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=QtRsync
+GenericName=QtRysnc
+Type=Application
+Exec=/usr/bin/qtrsync
+Comment=Simple GUI for the rsync tool.
+StartupNotify=true
+Terminal=false
+Categories=Qt;System;
+

@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>icons/application-exit.png</file>
+        <file>icons/edit-clear-locationbar.png</file>
+	<file>icons/folder.png</file>
+	<file>icons/help-about.png</file>
+	<file>icons/system-run.png</file>
+	<file>icons/window-close.png</file>
+    </qresource>
+</RCC>
